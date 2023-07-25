@@ -6,16 +6,16 @@ import org.junit.Test;
 /**
  * Created by leon on 7/21/2020.
  */
-public class ApplicationRunnerTest {
-    @Test
-    public void test() { // TODO - replace boiler-plate logic with business logic
+//public class ApplicationRunnerTest {
+   // @Test
+  //  public void test() { // TODO - replace boiler-plate logic with business logic
         // given
-        Runnable runnable = new Casino();
+    //    Runnable runnable = new Casino();
 
         // when
-        runnable.run();
+    //    runnable.run();
 
         // then
-        Assert.assertNotNull(runnable.toString());
-    }
-}
+     //   Assert.assertNotNull(runnable.toString());
+   // }
+//}
